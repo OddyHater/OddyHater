@@ -25,7 +25,7 @@
 
 ---
 
-<div align="center" style="margin-bottom: 24px">
+<div align="center" margin-bottom= "24px">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=OddyHater&theme=vision-friendly-dark">
 </div>
 
