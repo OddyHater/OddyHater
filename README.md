@@ -25,10 +25,10 @@
 
 ---
 
-<div align="center" margin-bottom= "24px">
+<div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=OddyHater&theme=vision-friendly-dark">
 </div>
-
+<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OddyHater&layout=compact&theme=vision-friendly-dark">
 </div>
