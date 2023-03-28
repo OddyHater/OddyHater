@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=OddyHater">
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=OddyHater&theme=vision-friendly-dark">
 </div>
 
 <div align="center">
