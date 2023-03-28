@@ -25,7 +25,9 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OddyHater&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=OddyHater&layout=compact&theme=vision-friendly-dark](http://github-readme-streak-stats.herokuapp.com?user=OddyHater&theme=dark&hide_border=true)">
+</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OddyHater&layout=compact&theme=vision-friendly-dark">
